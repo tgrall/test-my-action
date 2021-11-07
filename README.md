@@ -1,5 +1,4 @@
 
-Content before the title
 
 # test-my-action
 
