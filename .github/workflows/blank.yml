@@ -31,4 +31,4 @@ jobs:
 
       # Test file
       - name: Check files actions
-        uses: tgrall/check-files-action@main
+        uses: tgrall/check-files-action@test
